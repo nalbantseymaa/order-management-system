@@ -97,7 +97,7 @@ Projeyle birlikte gelen `ordermanage.sql` dosyasını **MySQL Workbench**, **DBe
 2. MySQL veritabanı bağlantısı için gerekli olan mysql-connector-java-x.x.xx.jar dosyasını indirin ve projeye ekleyin:
    IntelliJ'de:
     - `File` > `Project Structure` > `Libraries` yolunu izleyin.
-3. `ordermanage.sql` dosyasını MySQL Workbench veya DBeaver gibi bir araçla çalıştırarak veritabanını oluşturun.
+3. `order_manage_setup.sql` dosyasını MySQL Workbench veya DBeaver gibi bir araçla çalıştırarak veritabanını oluşturun.
 4. `Database` sınıfındaki veritabanı bağlantı bilgilerini güncelleyin:
    ```java
    private final String DB_URL = "jdbc:mysql://localhost:3306/ordermanage";
