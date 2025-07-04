@@ -106,7 +106,10 @@ Projeyle birlikte gelen `ordermanage.sql` dosyasını **MySQL Workbench**, **DBe
    ```
    🛠️ Bu değerleri kendi kullanıcı adı ve şifrenize göre güncellemeyi unutmayın.
 5. Projeyi IntelliJ IDEA'da açın ve çalıştırın.
-6. Uygulama çalıştığında giriş ekranı üzerinden kullanıcı bilgilerinizi girerek yönetim paneline erişin.
+6. Uygulama çalıştığında giriş ekranı üzerinden kullanıcı bilgilerinizi girerek yönetim paneline erişin.  
+   **Varsayılan olarak admin hesabı ile de giriş yapabilirsiniz:**  
+   Kullanıcı adı: `admin@example.com`  
+   Şifre: `123456`
 7. Müşteri, ürün ve sipariş işlemlerini gerçekleştirin.
 
 ## 🖼️ Ekran Görüntüleri
